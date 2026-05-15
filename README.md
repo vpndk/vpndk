@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/volodymyr-pindak-984758222" target="_blank">
+  <a href="[https://www.linkedin.com/in/volodymyr-pindak-9a6427393/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/i_amvova" target="_blank">
+  <a href="https://twitter.com/v_pndk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/i.amvova/" target="_blank">
+  <a href="https://www.instagram.com/v.pndk/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="28" alt="Instagram Badge"/>
   </a><br />
   <img src="https://komarev.com/ghpvc/?username=your-github-iamvova&style=flat-square&color=blue" alt=""/>
@@ -23,7 +23,7 @@
 
 ## 😃 About me
 <ul>
-  <li>I'm 20 y.o Front-end developer from Ukraine 🇺🇦. </li>
+  <li>I'm 22 y.o Web Developer from Ukraine 🇺🇦. </li>
   <li>I'm currently learning React ⚛️ and I have some progress in it. </li>
   <li>I am also interested in cooperation 😉 so you can contact with me. </li>
   <li>If I talk about my hobbies it is primarily football and driving a car. I really like it.</li>
